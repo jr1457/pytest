@@ -1,9 +1,0 @@
-name: anyNameForThis
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - moto
-  - boto
-  - pytest
-
